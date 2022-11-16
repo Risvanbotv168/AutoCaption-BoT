@@ -1,6 +1,6 @@
 {
     "name": "AutoCaption-Bot",
-    "description": "Auto Caption BoT V1 @Pr0fess0r-99",
+    "description": "Auto Caption BoT V1 @groupmoviex",
     "logo": "https://graph.org/file/a3a93ffb7283578499cce.jpg",
     "keywords": [
         "Private",
@@ -8,9 +8,6 @@
         "Caption",
         "Bot"
     ],
-    "website": "https://youtube.com/channel/UCmGBpXoM-OEm-FacOccVKgQ",
-    "repository": "https://github.com/PR0FESS0R-99/AutoCaption-BoT",
-    "success_url": "https://youtube.com/channel/UCmGBpXoM-OEm-FacOccVKgQ",
     "env": {
         "app_id": {
             "description": "Your APP ID From my.telegram.org or @MT_MyTelegramOrg_Bot",
